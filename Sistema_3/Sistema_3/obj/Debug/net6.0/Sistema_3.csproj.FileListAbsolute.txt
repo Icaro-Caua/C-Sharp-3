@@ -1,0 +1,15 @@
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\obj\Debug\net6.0\Sistema_3.csproj.AssemblyReference.cache
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\obj\Debug\net6.0\Sistema_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\obj\Debug\net6.0\Sistema_3.AssemblyInfoInputs.cache
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\obj\Debug\net6.0\Sistema_3.AssemblyInfo.cs
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\obj\Debug\net6.0\Sistema_3.csproj.CoreCompileInputs.cache
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\bin\Debug\net6.0\Sistema_3.exe
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\bin\Debug\net6.0\Sistema_3.deps.json
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\bin\Debug\net6.0\Sistema_3.runtimeconfig.json
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\bin\Debug\net6.0\Sistema_3.dll
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\bin\Debug\net6.0\Sistema_3.pdb
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\obj\Debug\net6.0\Sistema_3.dll
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\obj\Debug\net6.0\refint\Sistema_3.dll
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\obj\Debug\net6.0\Sistema_3.pdb
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\obj\Debug\net6.0\Sistema_3.genruntimeconfig.cache
+C:\Users\icaro.oliveira\Documents\Trainee\Sistema 3 C#\Sistema_3\Sistema_3\obj\Debug\net6.0\ref\Sistema_3.dll
